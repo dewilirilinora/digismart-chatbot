@@ -18,7 +18,7 @@ Aplikasi web chatbot interaktif modern yang dibangun menggunakan Vite dan React.
 
 ## Fitur Utama
 
-- **Lightning Fast:** Performa optimal berkatbundling modern menggunakan Vite.
+- **Lightning Fast:** Performa optimal berkat bundling modern menggunakan Vite.
 - **Interactive Chat Interface:** Antarmuka percakapan yang ramah pengguna, responsif, dan mendukung pengguliran otomatis (*auto-scroll*).
 - **Fully Responsive:** Desain adaptif yang nyaman digunakan baik di perangkat seluler (*mobile*) maupun desktop.
 - **Modern Styling:** Antarmuka dipercantik dengan tata letak yang bersih dan transisi yang mulus.
@@ -30,5 +30,5 @@ Aplikasi web chatbot interaktif modern yang dibangun menggunakan Vite dan React.
 
 - **Frontend Framework:** [React.js](https://react.dev/)
 - **Build Tool:** [Vite](https://vitejs.dev/)
-- **Styling:** [Tailwind CSS](https://tailwindcss.com/) *(atau sesuaikan jika menggunakan CSS murni/Module)*
+- **Styling:** [Tailwind CSS](https://tailwindcss.com/)
 - **Deployment:** [Vercel](https://vercel.com/)
